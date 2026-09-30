@@ -1,0 +1,15 @@
+case_id,activity,timestamp,resource
+C001,Registrasi,2025-08-01 08:00:00,Admin
+C001,Verifikasi Dokumen,2025-08-01 09:00:00,Staff
+C001,Proses Approval,2025-08-01 11:00:00,Manager
+C001,Selesai,2025-08-01 14:00:00,Admin
+C002,Registrasi,2025-08-01 08:15:00,Admin
+C002,Verifikasi Dokumen,2025-08-01 10:00:00,Staff
+C002,Revisi Dokumen,2025-08-01 13:00:00,Staff
+C002,Verifikasi Dokumen,2025-08-01 14:30:00,Staff
+C002,Proses Approval,2025-08-02 09:00:00,Manager
+C002,Selesai,2025-08-02 10:00:00,Admin
+C003,Registrasi,2025-08-02 08:00:00,Admin
+C003,Verifikasi Dokumen,2025-08-02 09:30:00,Staff
+C003,Proses Approval,2025-08-02 11:00:00,Manager
+C003,Selesai,2025-08-02 12:00:00,Admin
