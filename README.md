@@ -1,2 +1,2 @@
-# Indah-Anggina_ProcessMining
+# Nur-Sakinah_ProcessMining
 Tugas process mining 
